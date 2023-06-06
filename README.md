@@ -1,0 +1,2 @@
+# Extended-Java-BookList-and-Deck-of-Cards-Lab-Assignment
+Mastered Java skills in the Extended Lab Assignment: BookList and Deck of Cards. Demonstrated proficiency in data handling, including filtering, searching, and ranking books, and implemented efficient algorithms for card sorting and hand ranking in poker. Showcased expertise in Java programming, data manipulation, and problem-solving abilities.
